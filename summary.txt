@@ -1,0 +1,14 @@
+-------------------
+NetWork Scanner
+-------------------
+
+1)To Know What Are The Fields Of ARP
+  scapy.ls(scapy.ARP())
+2)Knowing the Fields of Ether()
+  scapy.ls(scapy.Ether())
+3) What the packet contains
+  print(arp_request_broadcast.summary())
+4) Detailed information about  arp packet
+   arp_request_broadcast.show()
+IF YOU ARE FACING ANY ISSU WITH THIS CODE ..YOU CAN CONTACT ME
+TELEGRAM (@python_hacks)
